@@ -12,4 +12,5 @@ Pada tampilan Git Bash Here ketikan :
   6.  git commit -m "first commit"  "enter"
   7.  git remote add origin https://github.com/winda97/Latihan1.git "enter"
   8.  git push -u origin master "enter"
+  
 Dan tunggu respon/balasan yang muncul dilayar tampilan Git Bash Here
